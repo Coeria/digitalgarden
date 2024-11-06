@@ -1,4 +1,4 @@
-Outside of my studies, I use the internet mostly for social media. Being so, when I am on the internet I do not feel like I am retaining any information; in fact, I feel my brain losing the ability to do so. However, my anxiety about becoming “dumber” is beside the point. The internet is owned, controlled, and hosted by a handful of conglomerates, all vying for our attention. This has made browsing the web feel void of exploration—very little surf and a lot more cookies, if you know what I mean. I crave a more interesting internet landscape, I want to see it rewilded. 
+Outside of my studies, I use the internet mostly for social media. Being so, when I am on the internet I do not feel like I am retaining any information; in fact, I feel my brain losing the ability to do so. However, my anxiety about becoming “dumber” is beside the point. The internet is owned, controlled, and hosted by a handful of conglomerates, all vying for our attention. This has made browsing the web feel void of exploration—very little surf and a lot more cookies. I crave a more interesting internet landscape, I want to see it rewilded. 
 
 What is sustainable web design?
 

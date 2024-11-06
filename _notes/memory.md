@@ -1,4 +1,4 @@
-🪞_________ ׂׂૢ་༘
+
 Quotes:
 
 
@@ -9,4 +9,4 @@ Quotes:
 .
 .
 
-Does anyone actually have a good memory?
+Does anyone actually have a good memory? 🪞
