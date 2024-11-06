@@ -9,7 +9,7 @@ permalink: /
 
   Specifically, this is [[Erica]]'s digital garden. To learn about the specifics of what these are click [here](https://www.deemjournal.com/stories/digital-gardens) 
 
-I am a big fan of the [[DIY Web]] movement, and I consider digital gardens a part of this. To sum up what they are, they are an ecological metaphor for an online notebook, which is a concept I am very excited about. My research interests and thoughts are always going to be growing and evolving, so I will make an effort to cultivate my ideas in this space (even if they are unpolished).
+I am a big fan of the [[DIY Web]] movement, and I consider digital gardens to be a part of this. To sum up, digital gardens are an ecological metaphor for an online notebook— a concept I am very excited about. Since my research interests and thoughts will always be growing and evolving, I will make an effort to cultivate my ideas in this space, even if they are unpolished.
 
 .
 .
