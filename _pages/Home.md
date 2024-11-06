@@ -22,6 +22,6 @@ I am a big fan of the [[DIY Web]] movement, and I consider digital gardens a par
 
 *<strong>growing notes</strong>✎ (❁ᴗ͈ˬᴗ͈) ༉‧ ♡.✧***
 {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %} {% for note in recent_notes limit: 5 %}- {{ note.last_modified_at | date: "%Y-%m-%d" }} — [{{ note.title }}](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_pages/%7B%7B%20site.baseurl%20%7D%7D%7B%7B%20note.url%20%7D%7D)
-{% endfor %}
+
 
 
