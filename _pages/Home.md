@@ -7,10 +7,13 @@ permalink: /
 *This is a digital garden .ೃ𓆝 𓆟 𓆞 𓆝 𓆟ೀ⋆｡🌷*
 
 
-  *Specifically, this is Erica's digital garden. To learn about the specifics of what these are click [here](https://www.deemjournal.com/stories/digital-gardens)*
+  Specifically, this is Erica's digital garden. To learn about the specifics of what these are click [here](https://www.deemjournal.com/stories/digital-gardens) 
 
-Basically, they are an ecological metaphor for an online notebook, which is a concept I am very excited about. My research interests and thoughts are always going to be growing and evolving, so I will make an effort to cultivate my ideas in this space.
+I am a big fan of the [[DIY Web]] movement, and I consider digital gardens a part of this. To sum up what they are, they are an ecological metaphor for an online notebook, which is a concept I am very excited about. My research interests and thoughts are always going to be growing and evolving, so I will make an effort to cultivate my ideas in this space (even if they are unpolished).
 
+.
+.
+.
 
 *The digital garden template I use is free, open-source, and [available on GitHub](https://github.com/maximevaillancourt/digital-garden-jekyll-template).*
 
@@ -21,4 +24,4 @@ Basically, they are an ecological metaphor for an online notebook, which is a co
 {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %} {% for note in recent_notes limit: 5 %}- {{ note.last_modified_at | date: "%Y-%m-%d" }} — [{{ note.title }}](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/_pages/%7B%7B%20site.baseurl%20%7D%7D%7B%7B%20note.url%20%7D%7D)
 {% endfor %}
 
-<style> .wrapper { max-width: 46em; } </style>
+

@@ -1,0 +1,1 @@
+I recorded the Lade Braes path with a digital scanner and used my field recorder to capture the sound of me walking along it. I am fan of layering visuals and sounds.![[lade braes 2.mp4]]
