@@ -1,0 +1,4 @@
+Ziggy Cashmere (a lovely alias) wrote an amazing guide on finding lost media. It is free and online [here](https://sites.google.com/view/lostmediahandbook/lost-media-and-research-handbook). 
+Since graduating, I been have wanting to delve into this activity of finding lost media. As someone who researches film, specifically the materiality of film stock, I want to preserve the remaining traces of nitrate film. Nitrate film is highly flammable and due to this condition, it has a strong propensity to combust. Thus, up to 90% of silent films are lost.
+
+Film decays and becomes brittle. The emulsion bubbles until the image appears as if it has [rotten](https://www.filmcare.org/vd_binder.php). This is accepted and accredited to the fragility of physical objects. However, I believe we have to be prepared for the [inevitable decay of digital media](https://www.getty.edu/news/preventing-digital-decay/). 
