@@ -6,5 +6,6 @@ I had the nice idea of making video diaries with them. I treat the entries like 
 
 [Video Diary Entry #2](https://www.youtube.com/watch?v=ZYtkmY3WdbM)
 
+˗ˏˋ ˚⊱📷⊰˚ˎˊ˗
 
 I am not sure if I have a good [[memory]], so I hope these help.

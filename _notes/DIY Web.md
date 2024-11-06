@@ -7,5 +7,5 @@ What is [digital decay](https://www.fountaindale.org/understanding-digital-decay
 What is the internet [really made of](https://syllabusproject.org/elemental-internet/) and what have we lost?
 
 > [!NOTE]
-> I like thinking about the overlaps between digital and natural worlds. A lot of the natural world we witness has been made digital. I used to walk along [[recording landscapes|this path]], with a creek, wild bluebells, and sometimes a kingfisher during my undergrad. I make these kinds of memories digital so they can last longer. The truth is however, that both digital and natural landscapes are ephemeral, so I am not sure if I can say I am really doing anything.
+> I like thinking about the overlaps between digital and natural worlds. A lot of the natural world we witness has been made digital. I used to walk along [[recording landscapes|this path]], which has a creek, wild bluebells, and sometimes a kingfisher. I make these kinds of memories digital so they can last longer. The truth is however, that both digital and natural landscapes are ephemeral, so I am not sure if I can say I am really doing anything. Still figuring out the best way to approach my own [[memory]].
 []()
