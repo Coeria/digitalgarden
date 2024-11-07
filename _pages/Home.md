@@ -22,15 +22,17 @@ I am a big fan of the [[DIY Web]] movement, and I consider digital gardens to be
 
 *<strong>growing notes</strong>✎ (❁ᴗ͈ˬᴗ͈) ༉‧ ♡.✧***
 
-[[recording landscapes]]
-
 [[DIY Web]]
+
+[[recording landscapes]]
 
 [[Video Diaries]]
 
 [[memory]]
 
 [[Lost media]]
+
+[[Roses]]
 
 
 

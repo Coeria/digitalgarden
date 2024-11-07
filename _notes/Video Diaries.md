@@ -6,6 +6,6 @@ I recently had the idea of making video diaries with them. I treat the entries l
 
 [Video Diary Entry #2](https://www.youtube.com/watch?v=ZYtkmY3WdbM)
 
-(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ˗ˏˋ ˚⊱📷⊰˚ˎˊ˗🦋˚ˎˊ
+(.ᴗ͈ˬᴗ͈)[[Roses|ꕤ]]*.ﾟ˗ˏˋ ˚⊱📷⊰˚ˎˊ˗🦋˚ˎˊ
 
 I am not sure if I have a good [[memory]], so I hope these help.
