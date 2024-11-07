@@ -27,4 +27,4 @@ I love Rose Lowder [films](https://lightcone.org/en/film-13545-bouquets-31-40). 
 
 I like roses for their scent and how big they can get. 
 
-Unfortunately, the floriculture industry is an unsustainable business. For roses, human rights have been violated and the environment has been abused. The film *L[OVE, WOMEN & FLOWERS* (AMOR, MUJERES & FLORES)](https://www.festival-cannes.com/en/f/amor-mujeres-y-flores/) documents the working conditions of flower cultivation laborers. At the beginning, it poses the question: "What's the cost of producing beauty?" I will ask this question more.
+Unfortunately, the floriculture industry is an unsustainable business. For roses, human rights have been violated and the environment has been abused. The film [*LOVE, WOMEN & FLOWERS*](https://www.festival-cannes.com/en/f/amor-mujeres-y-flores) (AMOR, MUJERES & FLORES). documents the working conditions of flower cultivation laborers. At the beginning, it poses the question: "What's the cost of producing beauty?" I will ask this question more.
