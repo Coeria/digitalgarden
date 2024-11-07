@@ -19,7 +19,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 The past few years I have been wearing [this](https://www.jomalone.com/product/25778/10066/new-products/red-roses-cologne) rose perfume. Of the entire collection, I liked that it was the only one in which the ingredients slightly affect the solution's color—it’s subtly pink. To make perfume, plant extracts from woods, fruits, flowers, and other botanicals are often obtained through distillation apparatuses like rotating drums, where a solvent dissolves the aromatic compounds, or through cold-pressing in the case of citrus oils. The most interesting part, however, is tracing the origins of these botanical materials.
 
-For my perfume, the heart note is reportedly a blend of seven different roses. Unfortunately, I can’t find much information about how the ingredients are sourced or processed, aside from the company mentioning it includes some percentage of essential oils. I find vague sourcing practices annoying.
+For my perfume, the heart note is reportedly a blend of seven different roses. Unfortunately, I can’t find much information about how the ingredients are sourced or processed, aside from the company mentioning it includes some percentage of essential oils.
 
 I want to read [this](https://www.goodreads.com/book/show/61875012-in-search-of-perfumes) book. I have read a few chapters while in a book store, and it was great. 
 
