@@ -17,4 +17,4 @@ My name is Erica 𖦹 ׂ 𓈒 🐇 ／ ⋆ ۪
 
 I am an experienced [curator](https://www.starlingfilmfestival.com/meet-the-team), a former [film festival](https://greenfilm.wixsite.com/greenfilmfestival) director, and a budding film scholar. It is exciting to think about the future.
 
-Currently reading: The Toaster Project by Thomas Thwaites
+Currently reading: [The Toaster Project](https://www.thomasthwaites.com/the-toaster-project/) by Thomas Thwaites
