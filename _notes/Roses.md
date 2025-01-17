@@ -21,7 +21,8 @@ For the past few years I have been wearing a rose scented perfume. I like how th
 
 For my perfume, the heart note is reportedly a blend of seven different roses. Unfortunately, I can’t find much information about how the ingredients are sourced or processed, aside from the company mentioning it includes some percentage of essential oils.
 
-I want to read [this](https://books.google.com/books/about/In_Search_of_Perfumes.html?id=Ffx-EAAAQBAJ) book. I have already read a few chapters while in a book store, and it was great. It helps answer questions like: about how many roses does it take to produce a kilo of rose oil? It is a million, a million handpicked roses.
+I want to read [this](https://books.google.com/books/about/In_Search_of_Perfumes.html?id=Ffx-EAAAQBAJ) book. I have already read a few chapters while in a book store, and it was very interesting! It helps answer questions like: about how many roses does it take to produce a kilo of rose oil?
+It is a million, a million handpicked roses.
 
 I love Rose Lowder's [films](https://lightcone.org/en/film-13545-bouquets-31-40).  I discovered them while writing a research essay in my undergrad; there are a lot of flowers in them. I wouldn’t say I watch her films often, but I really like them.
 
