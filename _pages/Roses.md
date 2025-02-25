@@ -18,7 +18,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-For the past few years I have been wearing a rose scented perfume. I like how the flowers influence the [[Anthotypes| solution's color]]— it becomes subtly rosy, like a pink blush. To make perfume, you need plant extracts from woods, fruits, flowers, and other botanicals. These are often obtained through distillation apparatuses like rotating drums, where a solvent dissolves the aromatic compounds, or through cold-pressing in the case of citrus oils. The most interesting part, however, is tracing the origins of these botanical materials.
+
+For the past few years I have been wearing a rose scented perfume. I like how the flowers influence the [[Anthotypes|solution's color]]— it becomes subtly rosy, like a pink blush. To make perfume, you need plant extracts from woods, fruits, flowers, and other botanicals. These are often obtained through distillation apparatuses like rotating drums, where a solvent dissolves the aromatic compounds, or through cold-pressing in the case of citrus oils. The most interesting part, however, is tracing the origins of these botanical materials.
 
 For my perfume, the heart note is reportedly a blend of seven different roses. Unfortunately, I can’t find much information about how the ingredients are sourced or processed, aside from the company mentioning it includes some percentage of essential oils.
 
