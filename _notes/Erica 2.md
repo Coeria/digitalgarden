@@ -1,0 +1,20 @@
+---
+layout: page
+title: About
+permalink: /about
+color:
+---
+My name is Erica 𖦹 ׂ 𓈒 🐇 ／ ⋆ ۪
+
+- Pronouns: she/her
+- My favorite animal is a ladybug
+- I enjoy studying film and digital media
+- I believe in the power of sustainability
+- I am a vegetarian! ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧
+- loose leaf tea > tea bags
+- I dislike cold rooms
+- One of my proudest achievements is my anime [instagram blog](https://www.instagram.com/anifish_/) from high school
+
+I am an experienced [curator](https://www.starlingfilmfestival.com/meet-the-team) and a former [film festival](https://greenfilm.wixsite.com/greenfilmfestival) director. It is exciting to think about the future.
+
+Currently reading: [The Toaster Project](https://www.thomasthwaites.com/the-toaster-project/) by Thomas Thwaites
