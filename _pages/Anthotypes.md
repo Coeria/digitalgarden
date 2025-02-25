@@ -6,4 +6,5 @@ Contemporary anthotypes are understood as a form of sustainable art, an opportun
 
 I make anthotypes (mostly) from either turmeric powder or the brine of red cabbages. Red cabbages make a blue pigment when they oxidize and it is, in my opinion, the easiest emulsion to use. You can mix baking soda and water to make a DIY developer to make greenish pigments as well. The prints only need a day in the sun. I made my first anthotypes in 2023 and they look much different now.
 
-![[Untitled design.png]]![[IMG_9523 2.jpg]]![[Screenshot 2025-02-25 at 12.20.01 AM.png]]
+![Untitled design.png](file:///Users/ericaost/Desktop/Antho%20Portfolio/Untitled%20design.png)
+![antho.jpg.png](file:///Users/ericaost/Desktop/Antho%20Portfolio/antho.jpg.png)![IMG_9523 2.jpg](file:///Users/ericaost/Desktop/Antho%20Portfolio/IMG_9523%202.jpg)
