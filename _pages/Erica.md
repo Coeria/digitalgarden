@@ -7,7 +7,7 @@ color:
 My name is Erica 𖦹 ׂ 𓈒 🐇 ／ ⋆ ۪
 
 - Pronouns: she/her
-- My favorite animal is a ladybug
+- My favorite animal(?) is a ladybug
 - I enjoy studying film and digital media
 - I believe in the power of sustainability
 - I am a vegetarian! ʕ̢̣̣̣̣̩̩̩̩·͡˔·ོɁ̡̣̣̣̣̩̩̩̩✧
